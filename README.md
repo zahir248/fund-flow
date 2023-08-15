@@ -1,11 +1,13 @@
-# FundFlow
+                                                  # FundFlow
 
 FundFlow is a personal finance management tool that helps users track their commitments and financial goals.
 
-Programming Language: PHP
+FundFlow is developed using the following technologies:
 
-Framework: Bootstrap
+i)Programming Language: PHP
 
-Database: MySQL
+ii)Framework: Bootstrap
 
-Tool: Microsoft Visual Studio Code
+iii)Database: MySQL
+
+iv)Tool: Microsoft Visual Studio Code
