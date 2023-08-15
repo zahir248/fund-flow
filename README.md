@@ -1,4 +1,4 @@
-                                                  # FundFlow
+# FundFlow
 
 FundFlow is a personal finance management tool that helps users track their commitments and financial goals.
 
